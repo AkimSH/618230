@@ -1,0 +1,13 @@
+.idea/*
+.DS_Store
+.DS_Store?
+
+data/*
+db_dump/*
+
+web/application/cache/*
+web/application/logs/*
+web/application/vendor
+web/application/composer.lock
+
+#/application/config/development/*
